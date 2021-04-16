@@ -5,16 +5,27 @@ Harmony is a music player application for android. Java and Kotlin are used to b
 It can search all mp3, acc, wav audio files from storage. You can listen to music anytime anywhere. 
 It has a favorite feature using which you can save your favorite music, which makes it easy to find your favorite music.
 
-The following features are provided in the current stable version: 
+The following features are provided in the current stable version:
+
 •	Gradle-based build support
+
 •	Android-specific refactoring and quick fixes
+
 •	Lint tools to catch performance, usability, version compatibility and other problems
+
 •	ProGuard integration and app-signing capabilities
+
 •	Template-based wizards to create common Android designs and components
+
 •	A rich layout editor that allows users to drag-and-drop UI components, option to preview layouts on multiple screen configurations
+
 •	Support for building Android Wear apps
+
 •	Built-in support for Google Cloud Platform, enabling integration with Firebase Cloud Messaging (Earlier 'Google Cloud Messaging') and Google App Engine
+
 •	Android Virtual Device (Emulator) to run and debug apps in the Android studio.
+
+
 
 
 * Use Case Diagram of the Application
